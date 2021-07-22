@@ -6,6 +6,8 @@ Amante de desenvolvimento, apaixonado por codificar 😄!
 
 ## Stack atual
 
+<img align="right" width="40%" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Jorge Nunes stats" />
+<br>
 #### Front<br>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -42,17 +44,3 @@ Amante de desenvolvimento, apaixonado por codificar 😄!
   <code><img alt="My e-mail" width="32" src="https://github.com/WillTbn/portifolio_Pessoal/blob/master/assets/img/icones/icons8-microsoft-outlook-2019-96.png" /></code>
 </a>
 
-<!--
-**WillTbn/WillTbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
