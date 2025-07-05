@@ -1,4 +1,4 @@
-# **Jorge Nunes** 👨‍💻  
+# **Jorge Nunes** 👨🏾‍💻
 ### **Desenvolvedor FullStack | Laravel | Vue.js**  
 
 ---
